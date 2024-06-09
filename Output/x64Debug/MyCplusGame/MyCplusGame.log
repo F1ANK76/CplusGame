@@ -1,0 +1,64 @@
+﻿  bullet.cpp
+E:\CplusGames\MyCplusGame\MyCplusGame\bullet.cpp(56,15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  game.cpp
+E:\CplusGames\MyCplusGame\MyCplusGame\game.cpp(82,16): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\CplusGames\MyCplusGame\MyCplusGame\game.cpp(83,16): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  코드를 생성하고 있습니다...
+sfml-graphics-s-d.lib(BlendMode.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(BlendMode.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(Color.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(Color.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(Font.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(Font.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(Glsl.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(Glsl.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(GLCheck.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(GLCheck.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(GLExtensions.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(GLExtensions.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(Image.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(Image.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(ImageLoader.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(ImageLoader.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(RenderStates.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(RenderStates.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(RenderTarget.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(RenderTarget.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(RenderWindow.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(RenderWindow.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(Shader.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(Shader.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(Texture.obj) : warning LNK4099: '' PDB를 'sfml-graphics-s-d.lib(Texture.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(TextureSaver.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(TextureSaver.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(Transform.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(Transform.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(Transformable.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(Transformable.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(View.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(View.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(Vertex.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(Vertex.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(Sprite.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(Sprite.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(Text.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(Text.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(VertexArray.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(VertexArray.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(VertexBuffer.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(VertexBuffer.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(RenderTextureImpl.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(RenderTextureImpl.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-graphics-s-d.lib(RenderTextureImplFBO.obj) : warning LNK4099: 'sfml-graphics-s.pdb' PDB를 'sfml-graphics-s-d.lib(RenderTextureImplFBO.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-graphics-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-system-s-d.lib(Clock.obj) : warning LNK4099: 'sfml-system-s.pdb' PDB를 'sfml-system-s-d.lib(Clock.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-system-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-system-s-d.lib(Err.obj) : warning LNK4099: 'sfml-system-s.pdb' PDB를 'sfml-system-s-d.lib(Err.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-system-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-system-s-d.lib(Lock.obj) : warning LNK4099: 'sfml-system-s.pdb' PDB를 'sfml-system-s-d.lib(Lock.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-system-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-system-s-d.lib(Mutex.obj) : warning LNK4099: 'sfml-system-s.pdb' PDB를 'sfml-system-s-d.lib(Mutex.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-system-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-system-s-d.lib(Sleep.obj) : warning LNK4099: 'sfml-system-s.pdb' PDB를 'sfml-system-s-d.lib(Sleep.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-system-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-system-s-d.lib(String.obj) : warning LNK4099: 'sfml-system-s.pdb' PDB를 'sfml-system-s-d.lib(String.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-system-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-system-s-d.lib(ThreadLocal.obj) : warning LNK4099: 'sfml-system-s.pdb' PDB를 'sfml-system-s-d.lib(ThreadLocal.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-system-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-system-s-d.lib(Time.obj) : warning LNK4099: 'sfml-system-s.pdb' PDB를 'sfml-system-s-d.lib(Time.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-system-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-system-s-d.lib(ClockImpl.obj) : warning LNK4099: '' PDB를 'sfml-system-s-d.lib(ClockImpl.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-system-s-d.lib(MutexImpl.obj) : warning LNK4099: 'sfml-system-s.pdb' PDB를 'sfml-system-s-d.lib(MutexImpl.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-system-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-system-s-d.lib(SleepImpl.obj) : warning LNK4099: 'sfml-system-s.pdb' PDB를 'sfml-system-s-d.lib(SleepImpl.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-system-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-system-s-d.lib(ThreadLocalImpl.obj) : warning LNK4099: 'sfml-system-s.pdb' PDB를 'sfml-system-s-d.lib(ThreadLocalImpl.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-system-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(Context.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(Context.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(Cursor.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(Cursor.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(GlContext.obj) : warning LNK4099: '' PDB를 'sfml-window-s-d.lib(GlContext.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(GlResource.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(GlResource.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(Joystick.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(Joystick.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(JoystickManager.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(JoystickManager.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(Keyboard.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(Keyboard.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(SensorManager.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(SensorManager.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(VideoMode.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(VideoMode.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(Window.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(Window.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(WindowBase.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(WindowBase.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(WindowImpl.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(WindowImpl.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(CursorImpl.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(CursorImpl.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(InputImpl.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(InputImpl.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(JoystickImpl.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(JoystickImpl.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(SensorImpl.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(SensorImpl.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(VideoModeImpl.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(VideoModeImpl.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(VulkanImplWin32.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(VulkanImplWin32.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(WindowImplWin32.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(WindowImplWin32.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+sfml-window-s-d.lib(WglContext.obj) : warning LNK4099: 'sfml-window-s.pdb' PDB를 'sfml-window-s-d.lib(WglContext.obj)' 또는 'E:\CplusGames\Build\x64Debug\sfml-window-s.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  MyCplusGame.vcxproj -> E:\CplusGames\Build\x64Debug\MyCplusGame.exe
